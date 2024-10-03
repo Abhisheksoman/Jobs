@@ -38,6 +38,8 @@
 
 ``` 7) for logout user: Post http://127.0.0.1:8000/api/logout/ and also take access token and put as I mentioned with these you also have to put {"refresh_token":"refresh_token"} in your body json format ```
 
+``` 8) while login don't use hash password instead of that use created password that you have registered a user before ```
+
 ### Lints and fixes files 
 
 
