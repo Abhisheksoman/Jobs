@@ -36,6 +36,8 @@
 
 ``` 6) for updating Job Applications : Patch http://127.0.0.1:8000/api/jobapplications/id and also for deleting DELETE http://127.0.0.1:8000/api/jobapplications/id ```
 
+``` 7) for logout user: Post http://127.0.0.1:8000/api/logout/ and also take access token and put as I mentioned with these you also have to put {"refresh_token":"refresh_token"} in your body json format ```
+
 ### Lints and fixes files 
 
 
